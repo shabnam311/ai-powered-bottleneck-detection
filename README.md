@@ -19,6 +19,4 @@ The framework combines spatio-temporal bottleneck prediction (GCN/GAT + LSTM) wi
 - **GCN-DDQN:** 98.0% Success Rate | 4,422.9 paths/s Throughput | 0.27 ms Latency
 - **GAT-DDQN:** 98.5% Success Rate | 3,908.9 paths/s Throughput | 0.40 ms Latency
 
-**Spatio-Temporal Prediction (Accuracy):**
-- **GCN + LSTM:** 90.82%
-- **GAT + LSTM:** 100.0%
+
