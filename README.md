@@ -10,3 +10,9 @@ This repository contains the implementation of Graph Convolutional Networks (GCN
 ## Overview
 
 The models leverage graph neural network architectures to analyze network structures and identify critical points that act as bottlenecks. By applying GCN and GAT methodologies, the system efficiently captures spatial dependencies and node relationships to isolate constrained pathways.
+
+## Metrics
+
+- **GCN Test Accuracy**: 99.91%
+- **GCN F1 Score**: 99.86%
+- **GAT Model**: Evaluated with strong validation performance and stable loss convergence for identifying structural bottlenecks.
